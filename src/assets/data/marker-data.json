@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Nantes Ynov Campus",
+    "geolocation": {
+      "latitude": 47.2173,
+      "longitude": -1.5534
+    }
+  },
+  {
+    "id": 2,
+    "name": "Théâtre Graslin",
+    "geolocation": {
+      "latitude": 47.21327209472656,
+      "longitude": -1.5622235536575317
+    }
+  }
+]
